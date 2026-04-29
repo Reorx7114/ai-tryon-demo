@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1776864199660,
+      "tag": "0000_material_retro_girl",
+      "breakpoints": true
+    }
+  ]
+}
